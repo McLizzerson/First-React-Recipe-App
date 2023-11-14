@@ -1,5 +1,6 @@
 # recipeProject
 This is my first React assignment for the Front-end development course at Winc Academy
+(This repository is a copy of the original one, in order to deploy the project with Netlify)
 
 We had to create an app that enables the user to search for recipes. 
 The app is responsive for mobile, tablet and desktop. 
